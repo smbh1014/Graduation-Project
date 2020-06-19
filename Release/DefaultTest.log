@@ -1,0 +1,6 @@
+﻿  testBench.cpp
+c:\users\smbh\source\repos\defaulttest\defaulttest\testbench.cpp(14): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+c:\users\smbh\source\repos\defaulttest\defaulttest\testbench.cpp(17): warning C4838: 'double'에서 'float'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\smbh\source\repos\defaulttest\defaulttest\testbench.cpp(17): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+opencv_world401.lib(opencv_world401.dll) : fatal error LNK1112: 'x64' 모듈 컴퓨터 종류가 'x86' 대상 컴퓨터 종류와 충돌합니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(673,5): error MSB6006: "link.exe"이(가) 종료되었습니다(코드: 1112).

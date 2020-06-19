@@ -1,0 +1,3 @@
+﻿  testBench.cpp
+c:\users\smbh\source\repos\defaulttest\defaulttest\testbench.cpp(143): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  DefaultTest.vcxproj -> C:\Users\SMBH\source\repos\DefaultTest\Debug\DefaultTest.exe
